@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Banco-DaFrHe</string>
+    <string name="IniciarSesion">Iniciar Sesion</string>
+    <string name="obligatorio">Obligatorio</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Primer Fragmento</string>
+    <string name="second_fragment_label">Segundo Fragmento</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Previous</string>
+    <string name="Bienvenida">"Bienvenid@"</string>
+    <string name="posicionGlobal">Posición global</string>
+    <string name="movimientos">Movimientos</string>
+    <string name="transferencias">Transferencias</string>
+    <string name="cambiarContra">Cambiar Contraseña</string>
+    <string name="promociones">Promociones</string>
+    <string name="cajeros">Cajeros</string>
+    <string name="exit">Salir</string>
+    <string name="entrar">Entrar</string>
+    <string name="edLogIn">Introduce tu nombre de Usuario</string>
+    <string name="edPsswd">Introduce tu contraseña</string>
+    <string name="errorLI">El campo Usuario es obligatorio</string>
+    <string name="errorPS">El campo contraseña es obligatorio</string>
+    <string name="edCA">Introduce la contraseña actual</string>
+    <string name="edCN">Introduce una nueva contraseña</string>
+    <string name="edCC">Confirma la nueva contraseña</string>
+    <string name="errorAC">La contraseña actual es obligatoria</string>
+    <string name="errorCN">La contraseña nueva es obligatoria</string>
+    <string name="errorCC">Confirmar la contraseña es obligatorio</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="elegirAcc">Elige tu cuenta: </string>
+    <string name="cuentaPropia">Cuenta Propia</string>
+    <string name="cuentaAjena">Cuenta Ajena</string>
+    <string name="numeroCuenta">Escribe el numero de cuenta Ajena</string>
+    <string name="cantidad">"Cantidad: "</string>
+    <string name="introCantidad">Introduce cantidad\n\n</string>
+    <string name="checkboxJustificante">Añadir Justificante</string>
+    <string name="enviar">Enviar</string>
+    <string-array name="cuentasBancarias">
+        <item>ES66-0019-0020-96-1234567890</item>
+        <item>ES91-2100-0418-45-0200051332</item>
+        <item>ES30-0081-0118-37-0001492519</item>
+        <item>ES79-2038-5778-98-3000760236</item>
+    </string-array>
+    <string-array name="divisa">
+        <item>€</item>
+        <item>$</item>
+        <item>£</item>
+        <item>¥</item>
+    </string-array>
+</resources>
